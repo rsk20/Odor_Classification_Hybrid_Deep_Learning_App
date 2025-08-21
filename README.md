@@ -10,7 +10,6 @@
 
 This project implements a **hybrid deep learning model** that combines **Convolutional Neural Networks (CNNs)**, **Long Short-Term Memory Networks (LSTMs)**, and **Transformer-based attention mechanisms** for **odor classification using e-nose sensor data**.  
 
-<img width="380" height="253" alt="image" src="https://github.com/user-attachments/assets/1f74d0a0-9761-43bb-8e74-e406ae9e27cf" />
 
 
 It provides:
