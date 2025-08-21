@@ -132,7 +132,9 @@ The Desktop App opens.
 
 <img width="2048" height="1080" alt="image" src="https://github.com/user-attachments/assets/d6b0ae5a-9c82-438c-b516-ad32840e64ff" />
 
-📜 License 
+
+
+# 📜 License 
 
 This project is part of the MSc thesis of the author (@rsk20) at Epoka University (2025).
 Usage of this code requires prior permission from the author.
