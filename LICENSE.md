@@ -1,6 +1,9 @@
-Copyright (c) 2025 Resia Kilic
+Copyright (c) @rsk20 2025
 
 All Rights Reserved.
+
+This project is part of the MSc thesis of the author at Epoka University (2025).
+Usage of this code requires prior permission from the author.
 
 This repository and its contents (including but not limited to source code, documentation, and related files) may not be used, copied, modified, distributed, or otherwise exploited in any form without prior written permission from the author.
 
