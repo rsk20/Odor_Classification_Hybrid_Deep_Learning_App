@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+tensorflow
+plotly
+fastapi
+uvicorn
+scikit-learn
+matplotlib
+pydantic
+python-docx
+reportlab
+PyQt5
+httpx

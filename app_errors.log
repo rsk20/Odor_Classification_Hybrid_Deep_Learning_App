@@ -1,0 +1,48 @@
+ERROR:root:Error displaying metrics_table: cannot access local variable 'styled_content' where it is not associated with a value
+ERROR:root:Error displaying metrics_table: cannot access local variable 'styled_content' where it is not associated with a value
+ERROR:root:Error saving report: 'QTextDocument' object has no attribute 'textCursor'
+ERROR:root:Error saving report: arguments did not match any overloaded call:
+  insertImage(self, format: QTextImageFormat): argument 1 has unexpected type 'QImage'
+  insertImage(self, format: QTextImageFormat, alignment: QTextFrameFormat.Position): argument 1 has unexpected type 'QImage'
+  insertImage(self, name: str): argument 1 has unexpected type 'QImage'
+  insertImage(self, image: QImage, name: str = ''): 'width' is not a valid keyword argument
+ERROR:root:Error saving report: setPageSize(self, size: QSizeF): argument 1 has unexpected type 'QSize'
+ERROR:root:Error saving high-quality report: setPageOrientation(self, orientation: QPageLayout.Orientation): argument 1 has unexpected type 'Orientation'
+ERROR:root:Error generating report: setPageOrientation(self, orientation: QPageLayout.Orientation): argument 1 has unexpected type 'Orientation'
+ERROR:root:Error generating report: setPageSize(self, size: QSizeF): argument 1 has unexpected type 'QSize'
+ERROR:root:Error generating report: setPageSize(self, size: QSizeF): argument 1 has unexpected type 'QSize'
+ERROR:root:Error generating report: setPageSize(self, size: QSizeF): argument 1 has unexpected type 'QSize'
+ERROR:root:Error generating report: setPageSize(self, size: QSizeF): argument 1 has unexpected type 'QSize'
+ERROR:root:Fatal error: 'OdorClassificationUI' object has no attribute 'create_sidebar'
+ERROR:root:Fatal error: 'OdorClassificationUI' object has no attribute 'create_sidebar'
+ERROR:root:Fatal error: 'OdorClassificationUI' object has no attribute 'create_sidebar'
+ERROR:root:Fatal error: 'OdorClassificationUI' object has no attribute 'create_sidebar'
+ERROR:root:Fatal error: cannot access local variable 'graph_label' where it is not associated with a value
+ERROR:root:Fatal error: 'OdorClassificationUI' object has no attribute 'form_layout'
+ERROR:root:Fatal error: 'OdorClassificationUI' object has no attribute 'form_layout'
+ERROR:root:Fatal error: 'QVBoxLayout' object has no attribute 'setStyleSheet'
+ERROR:root:Fatal error: setWindowIcon(self, icon: QIcon): argument 1 has unexpected type 'str'
+ERROR:root:Fatal error: 'OdorClassificationUI' object has no attribute 'comparison_label'
+ERROR:root:Fatal error: 'OdorClassificationUI' object has no attribute 'container'
+ERROR:root:Fatal error: 'QVBoxLayout' object has no attribute 'setStyleSheet'
+ERROR:root:Fatal error: 'QVBoxLayout' object has no attribute 'setStyleSheet'
+ERROR:root:Fatal error: 'QWidget' object has no attribute 'setAlignment'
+ERROR:root:Fatal error: arguments did not match any overloaded call:
+  QVBoxLayout(): too many arguments
+  QVBoxLayout(parent: QWidget): argument 1 has unexpected type 'sip.wrappertype'
+ERROR:root:Fatal error: 'QWidget' object has no attribute 'setAlignment'
+ERROR:root:Fatal error: arguments did not match any overloaded call:
+  QVBoxLayout(): too many arguments
+  QVBoxLayout(parent: QWidget): argument 1 has unexpected type 'sip.wrappertype'
+ERROR:root:Fatal error: arguments did not match any overloaded call:
+  QVBoxLayout(): too many arguments
+  QVBoxLayout(parent: QWidget): argument 1 has unexpected type 'sip.wrappertype'
+ERROR:root:Fatal error: arguments did not match any overloaded call:
+  QVBoxLayout(): too many arguments
+  QVBoxLayout(parent: QWidget): argument 1 has unexpected type 'sip.wrappertype'
+ERROR:root:Fatal error: arguments did not match any overloaded call:
+  QVBoxLayout(): too many arguments
+  QVBoxLayout(parent: QWidget): argument 1 has unexpected type 'sip.wrappertype'
+ERROR:root:Fatal error: arguments did not match any overloaded call:
+  QVBoxLayout(): too many arguments
+  QVBoxLayout(parent: QWidget): argument 1 has unexpected type 'sip.wrappertype'
