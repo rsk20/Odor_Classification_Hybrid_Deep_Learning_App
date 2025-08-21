@@ -1,8 +1,9 @@
  <img width="50" height="50" alt="logo_odor_app" src="https://github.com/user-attachments/assets/66d5dd24-451d-4319-a621-bf548b85c7b3" />
  
 # Odor Classification Desktop App with Hybrid Deep Learning
-### MSc Thesis Project – Epoka University  
+
 **Title:** Enhancing Odor Classification in E-Nose Systems Using Advanced Deep Learning Techniques (2025)
+This project was done for the purpose of MSc Thesis Project – Epoka University.
 
 ---
 
