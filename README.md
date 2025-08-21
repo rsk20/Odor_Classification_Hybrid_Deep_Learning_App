@@ -138,4 +138,4 @@ The Desktop App opens.
 
 This project is part of the MSc thesis of the author (@rsk20) at Epoka University (2025).
 Usage of this code requires prior permission from the author.
-For further information please read the LICENSE.md on https://github.com/rsk20/Odor_Classification_Hybrid_Deep_Learning_App/LICENSE.md
+For further information please read [LICENSE.md](https://github.com/rsk20/Odor_Classification_Hybrid_Deep_Learning_App/blob/master/LICENSE.md)
